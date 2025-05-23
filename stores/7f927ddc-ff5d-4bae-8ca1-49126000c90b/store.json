@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "web25.swisscenter.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "savimecc",
+      "password" : {
+        "encryptedToken" : {
+          "token" : "p7tvWV1oqaYdmivf4rQ+Dd07asaPYDayR9i9g7bUKJBn"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "hf2CM0gnmO1Yi1dha2Qpacg7KDuod0721R+hGnhWeL+A1u8f8zEJqEzLVZMQ266pHuw7"
+        }
+      },
+      "sshIdentity" : {
+        "encryptedToken" : {
+          "token" : "p7tvWV1oqaYdmivf4rQ+Dd07asaPYDayR9i9g7bUKJBn"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "nF6rpKT0xzHSyd8fY0DpPAEt49hwUPkxz+PWZFZGsJhxkq0JaaCUnC4wk4a-s+tpFZvSMlNE1R-dvR3ZJX-1vPX-CeuJV+yp8-iGsqRvjBrmOBmLJ7qF5SC95tvTjFn7ccNr5DTWLV7QIRtuBH+CsGjKqPqtkCkzw-KNrbB0pxKb0VTCVRsAV0mfUP-4"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
