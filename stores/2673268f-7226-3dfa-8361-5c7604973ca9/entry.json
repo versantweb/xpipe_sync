@@ -1,0 +1,8 @@
+{
+  "uuid" : "2673268f-7226-3dfa-8361-5c7604973ca9",
+  "name" : "Shell Environments",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "configuration" : {
+    "deletable" : true
+  }
+}
