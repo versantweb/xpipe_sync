@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "0n6kf.ftp.infomaniak.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "0n6kf_burotecsarl",
+      "password" : {
+        "encryptedToken" : {
+          "token" : "bOtkBDOhJHq9PIxZZ3erAN0pJZ2lAtKFKrJik91bwsKW"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "R28Bs75XzzQttuyp-t3q+mM4J3kswhEqeZEyrm+PVtuV1+eqqCmI39uZ519IJRrw56iR-0QNhb9L4nzJJRrJ7gzwvvl3s9BtJikHwjxHnvHaogFx9hPp-TDlKBho-WcxnQn7aGabIYabU-SkM4CXhxK-UvW8Mx-BiNfapSjssAjk98SFHnyX6TkryZKi2QGRnz8Cnv7yV539ca4K0NMxC4BFLfWoEZlTy9BhLkdLsXpCKF67X6KF"
+        }
+      },
+      "sshIdentity" : {
+        "encryptedToken" : {
+          "token" : "bOtkBDOhJHq9PIxZZ3erAN0pJZ2lAtKFKrJik91bwsKW"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "5tmfA9aSXloKoJKOdJFRwKxdQM9a3aYtXjzaGwPVnB1Fu-JD3++56KzeBSV-XfKFDI2M"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
