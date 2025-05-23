@@ -1,0 +1,21 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "uv2vt.ftp.infomaniak.com",
+  "port" : 22,
+  "user" : "uv2vt_synergies",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "secret" : {
+        "type" : "vault",
+        "encryptedValue" : "5Ekl83gE4E0eclqf5OW9oq+4j+9zNKdmN0fKzow7tdMrG-oFY5jVww=="
+      }
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  }
+}
