@@ -1,0 +1,23 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "1i8qe.ftp.infomaniak.com",
+  "port" : 22,
+  "user" : "1i8qe_versantweb",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "secret" : {
+        "type" : "vault",
+        "encryptedValue" : "ZktUQqe8pm1oU4FfjLaoDWwn9a1InA+uv8Ar-iPJq7fWoCqHh6at"
+      }
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false
+}
