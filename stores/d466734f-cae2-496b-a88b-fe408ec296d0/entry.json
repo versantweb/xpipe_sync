@@ -1,0 +1,8 @@
+{
+  "uuid" : "d466734f-cae2-496b-a88b-fe408ec296d0",
+  "name" : "sh",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "configuration" : {
+    "deletable" : true
+  }
+}
