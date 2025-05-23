@@ -1,0 +1,19 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "ov-9c74c8.infomaniak.ch",
+  "port" : 22,
+  "user" : "ubuntu",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "type" : "default",
+      "encryptedValue" : "H6ev4ZzuTwMzJdIUL28vVSfhOEzhEd+f7Bvd-roOQ0h5wSWDtPzceUI="
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  }
+}
