@@ -1,0 +1,19 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "f22jh.ftp.infomaniak.com",
+  "port" : 22,
+  "user" : "f22jh_versantweb",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "type" : "default",
+      "encryptedValue" : "H6ev4ZzuTwMzJdIUaG96SRr8IG2SWoH4N0WowRIQvOVam8FubEPNUQ=="
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  }
+}
