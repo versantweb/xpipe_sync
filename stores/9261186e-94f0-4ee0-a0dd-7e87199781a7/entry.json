@@ -1,0 +1,8 @@
+{
+  "uuid" : "9261186e-94f0-4ee0-a0dd-7e87199781a7",
+  "name" : "bash",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "configuration" : {
+    "deletable" : true
+  }
+}
