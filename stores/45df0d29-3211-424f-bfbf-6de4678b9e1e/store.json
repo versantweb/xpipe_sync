@@ -1,0 +1,23 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "ny3vs.ftp.infomaniak.com",
+  "port" : 22,
+  "user" : "ny3vs_alphasurf",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "secret" : {
+        "type" : "vault",
+        "encryptedValue" : "dkhaZ+IP0M103XIkzggTVzPsJUR1731QYU4jhmOJsFjg4f3bldS2tA=="
+      }
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false
+}
