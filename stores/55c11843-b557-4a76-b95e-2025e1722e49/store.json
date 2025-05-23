@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "dflh.ftp.infomaniak.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "dflh_versantweb",
+      "password" : {
+        "encryptedToken" : {
+          "token" : "ejOEVX6k8LwHuU2SxZFGHb-wcoemH6UP9ma2mRv2UDo-"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "6mR5aTJxhxd0woIsQXYx+n0uzLQ64dET360xKhMRtQaNPdgvT8t-djCOtsKOjj0RSjKZz0WJ0D-Rkz-qzaTWEM9+Mh2265aVUQpZml4VXRYftPgCsZ9iW30unmt8VmWGkbvxoKMMi-wNa6do725BsAYA8MfXoMHUIAEwcD+KplF9rUqVGjraStEE4fJMwJ9bAqVGL5flwAIQMOgpnOGZR-UyvXT+PaWCKH170qM6QEtJv4A="
+        }
+      },
+      "sshIdentity" : {
+        "encryptedToken" : {
+          "token" : "ejOEVX6k8LwHuU2SxZFGHb-wcoemH6UP9ma2mRv2UDo-"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "Ogkd-oq9FB-VfSz21n9oCd92+qAwuc6gzKorppcjb09AOLtGyCD6cYq-3zoBXcF5qMzn"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}

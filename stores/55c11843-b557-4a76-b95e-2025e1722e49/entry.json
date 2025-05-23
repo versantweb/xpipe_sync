@@ -1,0 +1,10 @@
+{
+  "uuid" : "55c11843-b557-4a76-b95e-2025e1722e49",
+  "name" : "ES Val Terbi",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
