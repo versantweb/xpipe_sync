@@ -1,0 +1,23 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "laju.ftp.infomaniak.com",
+  "port" : 22,
+  "user" : "laju_versantweb",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "secret" : {
+        "type" : "vault",
+        "encryptedValue" : "SCCz31Hm-oYIFYTrgXXVSfGkGYIBEFBKJ7e7VwKBjXMlo4dg3-hd"
+      }
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false
+}
