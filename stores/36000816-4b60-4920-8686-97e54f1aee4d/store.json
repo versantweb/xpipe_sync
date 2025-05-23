@@ -1,0 +1,21 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "2z9o0.ftp.infomaniak.com",
+  "port" : 22,
+  "user" : "2z9o0_cmte",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "secret" : {
+        "type" : "vault",
+        "encryptedValue" : "vzevyhfmzMC7dKVm1tDgpr9F5KIihBXLQXAGlWSuwQUCYPIg7VDNtw=="
+      }
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  }
+}

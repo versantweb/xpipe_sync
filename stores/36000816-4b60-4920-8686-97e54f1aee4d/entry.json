@@ -1,0 +1,10 @@
+{
+  "uuid" : "36000816-4b60-4920-8686-97e54f1aee4d",
+  "name" : "Domofen",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
