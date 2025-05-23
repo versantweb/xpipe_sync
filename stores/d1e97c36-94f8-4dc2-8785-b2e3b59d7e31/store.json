@@ -1,0 +1,19 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "ue7yj.ftp.infomaniak.com",
+  "port" : 22,
+  "user" : "ue7yj_versantweb",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "type" : "default",
+      "encryptedValue" : "H6ev4ZzuTwMzJdIUCVMAYje2OAnmLqTX9AlNjY8OI0tZoassPR5CgA=="
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  }
+}

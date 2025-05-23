@@ -1,0 +1,10 @@
+{
+  "uuid" : "d1e97c36-94f8-4dc2-8785-b2e3b59d7e31",
+  "name" : "Versant Web - Beta",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
