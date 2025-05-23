@@ -1,0 +1,10 @@
+{
+  "uuid" : "5459cfc6-daad-471d-b114-c6e769109c00",
+  "name" : "Liechti Automobile",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
