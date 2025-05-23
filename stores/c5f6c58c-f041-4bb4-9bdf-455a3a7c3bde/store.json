@@ -1,0 +1,10 @@
+{
+  "type" : "shellEnvironment",
+  "commands" : null,
+  "host" : {
+    "storeId" : "f7bdf6f1-df62-41a4-aabe-a0898aa96945"
+  },
+  "shell" : null,
+  "elevated" : true,
+  "scripts" : null
+}
