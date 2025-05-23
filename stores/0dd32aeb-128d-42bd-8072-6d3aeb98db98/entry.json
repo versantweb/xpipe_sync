@@ -1,0 +1,10 @@
+{
+  "uuid" : "0dd32aeb-128d-42bd-8072-6d3aeb98db98",
+  "name" : "Ludimaniak",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
