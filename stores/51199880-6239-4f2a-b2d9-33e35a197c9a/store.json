@@ -1,0 +1,19 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "e59vv.ftp.infomaniak.com",
+  "port" : 22,
+  "user" : "e59vv_versantweb",
+  "password" : {
+    "type" : "inPlace",
+    "value" : {
+      "type" : "default",
+      "encryptedValue" : "H6ev4ZzuTwMzJdIUP3JkcyGxOg7NLdVJxhIDoAZmECWPb4OxPrpo"
+    }
+  },
+  "identityStrategy" : {
+    "type" : "none"
+  }
+}
