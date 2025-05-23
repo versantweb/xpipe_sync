@@ -1,0 +1,10 @@
+{
+  "uuid" : "3d06f51a-5c22-4175-8f36-65cff0c3811a",
+  "name" : "Swisscenter Anne",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

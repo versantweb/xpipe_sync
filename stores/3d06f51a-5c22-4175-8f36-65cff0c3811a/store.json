@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "web24.swisscenter.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "tmsonlin",
+      "password" : {
+        "encryptedToken" : {
+          "token" : "650XXjrT3lt85u8h4UUArxUQ8-63Kk6ciSDrVlllO8cQ"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "zqxhnzj7ToPLW3djHIuSrGjYLRcps5P5deMzeHYrsDQyn4QtQ6KF3gzKiucgtgHx3SHA"
+        }
+      },
+      "sshIdentity" : {
+        "encryptedToken" : {
+          "token" : "650XXjrT3lt85u8h4UUArxUQ8-63Kk6ciSDrVlllO8cQ"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "AbUcEZJClgvRKO3-LugvlMJ99M2QHzEk3rYYVcZHgSbZoGVCQzbgQ4++vpdDvFbtuYJ4obWN3iQ6nblrq1oaJJ-u4sztLjF16kCP8jokwMFGkA1ucjuabxP8t2Z3JNvih2basb4FJ79LCcXdJtazO55BUaVPUPWhB2iZh3HomyUEe7kgqrXbf1gpbmOh"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
