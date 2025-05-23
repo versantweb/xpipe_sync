@@ -1,0 +1,10 @@
+{
+  "uuid" : "d4bbee1c-e657-4e29-b373-a6e92b5b05d0",
+  "name" : "ES ASUR",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
