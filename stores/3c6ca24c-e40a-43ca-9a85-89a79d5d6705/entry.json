@@ -1,0 +1,8 @@
+{
+  "uuid" : "3c6ca24c-e40a-43ca-9a85-89a79d5d6705",
+  "name" : "OVH - Odoo",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "configuration" : {
+    "deletable" : true
+  }
+}
