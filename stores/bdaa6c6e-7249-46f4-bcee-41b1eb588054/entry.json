@@ -1,0 +1,10 @@
+{
+  "uuid" : "bdaa6c6e-7249-46f4-bcee-41b1eb588054",
+  "name" : "Auto Ecole Daniel",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
