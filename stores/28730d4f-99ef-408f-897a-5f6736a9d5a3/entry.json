@@ -1,0 +1,10 @@
+{
+  "uuid" : "28730d4f-99ef-408f-897a-5f6736a9d5a3",
+  "name" : "FSIH - 2024",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}

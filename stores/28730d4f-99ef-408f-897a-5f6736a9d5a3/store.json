@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "d033fv.ftp.infomaniak.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "d033fv_inline_hockey",
+      "password" : {
+        "encryptedToken" : {
+          "token" : "Ff5oq4IFOND7V2fAe7Sx1MmFS0BvCIub2hlwRNnCv8J7"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "nh-l5eDi8KeBfO7tGHgpe2XBXV6wFy-Ae9s6kfKpYlDaSibesgpZpfhtcAWbFxfgElfiaOiit+1N7URmov1jdEcMO1uiX3qgJXqFCCxxBIiMyU-npKlBLMimw505FjqbuyQvXaKZQ0c0UOZrxorUEuAKLcoiwR+KhWwdRmpacjeSrsodZEWSFEKujpy0ptPcG7Qg5ijWlbN3SpHcPKGbDZiNzlmpIzGpua3pkIlsP7vSmOpN7D9Q"
+        }
+      },
+      "sshIdentity" : {
+        "encryptedToken" : {
+          "token" : "Ff5oq4IFOND7V2fAe7Sx1MmFS0BvCIub2hlwRNnCv8J7"
+        },
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "OYb+mXZcUPb1g9rkNHFniP180E2iAkGPm3JbmTzqYJvOd+Ex9wus5ZV3KU98J84xe4u2"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
