@@ -1,0 +1,9 @@
+{
+  "uuid" : "35e5af15-ba87-4451-a7fe-d225ba63f798",
+  "name" : "HIB",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
