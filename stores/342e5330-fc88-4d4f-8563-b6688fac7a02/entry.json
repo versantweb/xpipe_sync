@@ -1,0 +1,10 @@
+{
+  "uuid" : "342e5330-fc88-4d4f-8563-b6688fac7a02",
+  "name" : "Ecole secondaire Vicques",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
