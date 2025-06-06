@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "gate.jpc.infomaniak.com",
+  "port" : 3022,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "181418-9688",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "e-MkwPWwOJTGHlxiHql6kAh5+jqqCEXnfrwucHS6pOPWTU+lxYjMGYWsd3NtUBVmJP0U"
+        },
+        "encryptedToken" : {
+          "token" : "V7vk35lUg1MJPoVYKDxrP2jsgEorQbmoWsjB8iHla3ir"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "++cLO6xTMuVzbORcQwOlwzkmOTCUEi7aSMABbjxp4NVeOtebpEo6zUgsDZbMq6blWdIo8CV6vAhjxBdzTS6Ytn8sfFxDN1kgEX3tKapzxzhru39E8yxRfVLWLmoh+Fks4wxSUWnh4ZDggRfXrfvr6iuePHsHNXz0AuYi+4XeAn6QnvXSckTTw4pFQ88jvbU="
+        },
+        "encryptedToken" : {
+          "token" : "V7vk35lUg1MJPoVYKDxrP2jsgEorQbmoWsjB8iHla3ir"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
