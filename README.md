@@ -111,6 +111,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**bash**](stores/402be23e-538c-41b0-8db3-d81d7adb2070)
     - [**dash**](stores/73840c10-765a-4fe5-9223-6ca7a39f4790)
     - [**sudo**](stores/4a3b5f28-7364-492d-9038-bd171ba03e0c)
+- [**FSIH - Jelastic Cloud**](stores/79c31888-a573-4262-8fc4-3609d80a3e0c)
 - [**Fumiste**](stores/127fbdfb-8390-4184-953b-46e3bab0d85a)
   - [**Shell Environments**](stores/86441271-1fba-3740-9fae-20c6ac35137a)
     - [**bash**](stores/feffa16d-9d94-443b-a385-6f62d2a49b4f)
