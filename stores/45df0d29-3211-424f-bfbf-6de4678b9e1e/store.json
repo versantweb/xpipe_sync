@@ -5,19 +5,32 @@
   },
   "host" : "ny3vs.ftp.infomaniak.com",
   "port" : 22,
-  "user" : "ny3vs_alphasurf",
-  "password" : {
+  "identity" : {
     "type" : "inPlace",
-    "value" : {
-      "secret" : {
-        "type" : "vault",
-        "encryptedValue" : "dkhaZ+IP0M103XIkzggTVzPsJUR1731QYU4jhmOJsFjg4f3bldS2tA=="
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "ny3vs_versantweb",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "5vtpNa3fkDHKvHdvnN7Nsok5PCjEMlYXIoCjl17L4DvLLP-bHQISC+PGSZkLx1sZaTG5KnyM5Bnx6fujPGeNuiQYDSpemVqlxUdfsAlp-VAzQhXTq60Q74CFA3EnkIxvm35TX6TnjdVc7eArFSZh0vORoLObkVEgTpOSfnwbCI0FxGyt0z6yTBL2wP3RtrlniM5auwxFeHjS7Ntn0DiQDEpR28TAZpUQA4Q3mk+hnZhvewCESmsN"
+        },
+        "encryptedToken" : {
+          "token" : "bfzsb7yfyUgeaVD4L35esju6T3RRf9M7Hj+-4z-f9Llq"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "wLGOuGSIwVxydbmNPg4OrvNBVKeE9mTr2qj9FjhRg2ZANxrNybO1XTr-Pta9tSRZAr5G"
+        },
+        "encryptedToken" : {
+          "token" : "bfzsb7yfyUgeaVD4L35esju6T3RRf9M7Hj+-4z-f9Llq"
+        }
       }
     }
   },
-  "identityStrategy" : {
-    "type" : "none"
-  },
   "dontInteractWithSystem" : false,
-  "forwardX11" : false
+  "forwardX11" : false,
+  "additionalOptions" : null
 }
