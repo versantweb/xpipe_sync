@@ -198,7 +198,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/b0fef1a0-f304-4dd4-96a5-afb79669b2c9)
     - [**root**](stores/c9859cbd-6583-4e61-9bb6-88efe4750bb0)
     - [**sh**](stores/aabdcff2-70b8-49fc-aaf9-77cd7420a545)
-- [**Versant Web - slowUp Bénévoles - m-p-a**](stores/d5ab2357-974b-4a07-9916-4f05f89d6916)
+- [**Versant Web - slowUp Bénévoles - m-p-a - Découvre la Broye**](stores/d5ab2357-974b-4a07-9916-4f05f89d6916)
   - [**Shell Environments**](stores/5eeed399-1126-3ec4-bc1b-f2300ea8a479)
     - [**bash**](stores/7786d92b-26fa-4d9f-bc0e-4075b38cc934)
     - [**dash**](stores/d75bcaa3-2bb3-4948-b165-54beca97cae6)
