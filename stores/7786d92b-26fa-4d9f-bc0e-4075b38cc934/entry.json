@@ -2,7 +2,6 @@
   "uuid" : "7786d92b-26fa-4d9f-bc0e-4075b38cc934",
   "name" : "bash",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
-  "configuration" : {
-    "deletable" : true
-  }
+  "color" : null,
+  "icon" : null
 }
