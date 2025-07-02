@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "mste.ftp.infomaniak.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "mste_versantweb",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "hT+k0uEFrVU5Wfj+tcOaATX1Xz+6XBj0OJ35qKEohjSv3fsbbcDl7E1tXtihYxMGKEIqHpAN9-yMsAB+BykLS8LWqwhNqB-SaXL-WzJFqZYptLfCQ1O8piHV3Tmjhl+KCA2BPRxiunYfcy582LHESrv9R2Agc8AURniyP0nf5f-sQMaLR-7ExAjWjsFMQY5U42i0UUaoryAo+BMDxvfpkf0h+OadvjusRrxt3N2x7ssZKuk="
+        },
+        "encryptedToken" : {
+          "token" : "HyOVX2JewrJqDNjPVIAzjosyB-SONdm-QbyLClg3z4EE"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "rS-NiIcAVdfrBjvs0dvONKp4A2AmaSM2ry4zy+VmjkZB+WvnYYnCLXcv-Kz6R7bAtD3P"
+        },
+        "encryptedToken" : {
+          "token" : "HyOVX2JewrJqDNjPVIAzjosyB-SONdm-QbyLClg3z4EE"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
