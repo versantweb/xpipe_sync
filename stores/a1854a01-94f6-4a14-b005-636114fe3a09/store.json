@@ -1,0 +1,36 @@
+{
+  "type" : "ssh",
+  "proxy" : {
+    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
+  },
+  "host" : "ezpa.ftp.infomaniak.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "ezpa_versantweb",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "60h7D9wLNRnnw3C4V5wV-73ZCb68zdwWewg-9ndD8vOK6Kpr9IVpKZI2CXxXy2QpaZ84TG34GGbAIaaNEXjbdpAs717lVxhV3AFlxZg4iJgRVZR+nyP54PMMAdbS4Bc-fSANAY9LllP4jXrF4H1emEOrDanzAp3X6LhZyrM6wP-kLpT23b+sF1YgE2zx-3BjpsAcGpgwgiLJJ6PmxElO-VRsSA3JKLHrtUlFDESMmXwr8og="
+        },
+        "encryptedToken" : {
+          "token" : "FDicd6LGDTOiXCZC1QnmWQJlbd+ALa4MvGX55571cViO"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "2QNWRCBHq8nqjOJlbQVXKcBSacoXYYTys518QigrTylDYG6SQQIOy95+jTj7hrMA-SnJ"
+        },
+        "encryptedToken" : {
+          "token" : "FDicd6LGDTOiXCZC1QnmWQJlbd+ALa4MvGX55571cViO"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
