@@ -34,6 +34,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/fc37f14a-95b3-4587-9016-3f7aecef5d62)
     - [**root**](stores/4d1417bb-23a6-4ba0-b778-73a34c6fc5e3)
     - [**sh**](stores/f337a395-c136-4ecf-b583-baaa85764cf8)
+- [**Barbey SA**](stores/a1854a01-94f6-4a14-b005-636114fe3a09)
 - [**Burotec**](stores/7e6b30a1-a102-42a8-8d86-08d2ab94ded8)
   - [**Shell environments**](stores/8920b578-4826-482c-94b1-f3f47631cde8)
     - [**bash**](stores/4fbfe685-a5ec-42b8-83bc-e1da19759e32)
