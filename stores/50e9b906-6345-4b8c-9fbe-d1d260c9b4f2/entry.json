@@ -2,9 +2,10 @@
   "uuid" : "50e9b906-6345-4b8c-9fbe-d1d260c9b4f2",
   "name" : "LadyD - IBE - CMTE",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
   "color" : null,
   "icon" : null,
-  "configuration" : {
-    "deletable" : true
-  }
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
 }
