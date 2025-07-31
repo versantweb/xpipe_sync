@@ -12,6 +12,7 @@ You can sync with this repository in all XPipe application instances the same wa
   - [**Custom**](categories/d3496db5-b709-41f9-abc0-ee0a660fbab9)
 - **Identities**
   - [**Synced**](categories/69aa5040-28dc-451e-b4ff-1192ce5e1e3c)
+- **Macros**
 
 ## Connection list
 
