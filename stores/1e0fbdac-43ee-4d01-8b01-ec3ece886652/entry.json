@@ -2,7 +2,10 @@
   "uuid" : "1e0fbdac-43ee-4d01-8b01-ec3ece886652",
   "name" : "Le Lab",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
-  "configuration" : {
-    "deletable" : true
-  }
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
 }
