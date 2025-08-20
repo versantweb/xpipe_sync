@@ -2,6 +2,10 @@
   "uuid" : "40b080bc-f7a8-4d10-ad3e-06b16036f1ae",
   "name" : "Asur Formation",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
   "color" : null,
-  "icon" : null
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
 }
