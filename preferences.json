@@ -10,5 +10,6 @@
   "apiKey" : "a4110b26-735d-4198-ae90-d9808c5b6d7d",
   "enableHttpApi" : false,
   "dontAllowTerminalRestart" : false,
-  "passwordManager" : null
+  "passwordManager" : null,
+  "iconSources" : [ ]
 }
