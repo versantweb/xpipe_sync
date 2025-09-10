@@ -107,6 +107,8 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**root**](stores/61ced62d-9c61-448b-b406-650447e306a7)
     - [**sh**](stores/528d651a-18c0-4b29-93bc-c7647f67c0ae)
 - [**FSHBR - 2025**](stores/ec1899a0-9f1d-44c6-ad41-b9d1825152c0)
+  - [**Shell environments**](stores/825d8cc8-8760-4274-b297-798a71cd84b8)
+    - [**sudo**](stores/2c716ab3-6e9e-4898-810d-86b7d3fe80ef)
 - [**FSIH**](stores/bcb26f5c-a483-470e-bf89-832551bf33ff)
   - [**Shell Environments**](stores/395ce069-794c-3168-8418-2ed021426eb0)
     - [**dash**](stores/ed5c458a-6ff3-4545-99ff-e80a0ede831d)
