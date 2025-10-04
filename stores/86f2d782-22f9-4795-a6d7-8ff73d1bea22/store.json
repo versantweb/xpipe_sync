@@ -11,7 +11,7 @@
       "password" : {
         "secret" : {
           "type" : "vault",
-          "encryptedValue" : "C-O8vk5lU8a6PlY_jW1MUP402K4sSL_M2vcPVG2pvNFpHPCxSkPXqZFAg0rm7cQ5IkrQ"
+          "encryptedValue" : "bFCszF6AHFxPzyG64lYcSfWJUQmglK8WYLnsSPSst5VaOURxVq5N0AkHfOjA1DQcFM18"
         },
         "encryptedToken" : {
           "token" : "fJwwHiT3AtMzjyXLztRz2Doe-80EJvHhYMjGgZ5csNYf"
@@ -20,7 +20,7 @@
       "sshIdentity" : {
         "secret" : {
           "type" : "vault",
-          "encryptedValue" : "s3SnL9OtIkt7QhZ1zI0bXbkPLp8tMWZXJnZ5dPXh8iSW8piMDdQiYlW5ZFddeItVXcjAK5NsDAmy3pO8LwLTpp-i3PfoVNJX6sedHQnmH3qkgko-F4M_s8BjJeIbLYl04dmc7I8q3xj8UP5PUzmPT1xvBAGF-1IpAdcyj8AJfxRxczIRrSOAAZz7sYDwhazWNZBYfcJqO8HJp22NkpSUb0P6OXg1nXNU3rV8RHCoOcGTl86Z0Ea_D0H5ypLBEFLJAudfTwEojWcASBYA8N6c1PIJQysOpvO2gxb-G-RftYEK9C3hbbfnFfOX7E7heATVhANLoeolw3ML1-RgpA3ffTAe_lLH_tFfAoRgOVcJeIxw5Z3YnTM1U8wJ"
+          "encryptedValue" : "-VoZO6aOU0vDisd2G7V3FbYDbBHPVK90bdsJcCkcm8WE2txGTXMj32g0-ioolMWo03T_d0iXP0D2JgERmxg_iGXVuFS5_wm4m69_H61C0LX3S5pRSXiNree5WVQ-PVqu1046sabJbV70IaUjBUJUeUERPSFgDNyHoC8tRLwYSTQehZAHMqsm3Wzno3nLMFLKtWns4roqCyZ5DiMFDbdokJBtYjqlmo9Ot6ifOh6Ssfrow0wF95lCd7XQ4j0u8HPgwGvQrNg6TI5Tb_P0f58DMg_ztuqtrLlNRrZI3VZcO43vg9Gr9PRcpRydY369Kl8fmVHHk3gvDgs3lPv8-voSsOOUFi4OVSZzG7txg6sni9V2Z4TvjN8="
         },
         "encryptedToken" : {
           "token" : "fJwwHiT3AtMzjyXLztRz2Doe-80EJvHhYMjGgZ5csNYf"
