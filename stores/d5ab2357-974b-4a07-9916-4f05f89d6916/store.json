@@ -1,23 +1,35 @@
 {
   "type" : "ssh",
-  "proxy" : {
-    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
-  },
+  "proxy" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
   "host" : "ue7yj.ftp.infomaniak.com",
   "port" : 22,
-  "user" : "ue7yj_versantweb",
-  "password" : {
+  "identity" : {
     "type" : "inPlace",
-    "value" : {
-      "secret" : {
-        "type" : "vault",
-        "encryptedValue" : "KSL0swy5uUfCof+VMVpFVnteXDIOdgW-aYk63SXj4GkeglC+xZpF-A=="
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "ue7yj_versantweb",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "FJmDT_YbXdYI4hc37d6SevmtCfmG2OSaEqAtD9HTT4TY_nUcIpp-Ge6gOYy4F46zHV0v2nHVVD9c_wwXtqaiZQgzX0TwnjkzTT3xVqzrOgaBHTPmV5o_yshcu-qkDszfKEgSLkGfmaXA3-vkDDTuI50FtK_6dvl2NXagIChIQZbqo7_f28-seUkdFoOEePyXI9F0H4OtGY_DA-zwRaqQuJxLu6ZsASG0LwMV0JCujJSgMU2MdfE7"
+        },
+        "encryptedToken" : {
+          "token" : "kuAviY8syPN7JthjknE6Xk2F7C20m_9FsEEPUD_Ws7no"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "j5LVg2cpfVX8L_SdP1rg3cqoF_emMaCUeymQYB18fIIjBz8hv2gstQ581eTlMYgklNwy"
+        },
+        "encryptedToken" : {
+          "token" : "kuAviY8syPN7JthjknE6Xk2F7C20m_9FsEEPUD_Ws7no"
+        }
       }
     }
   },
-  "identityStrategy" : {
-    "type" : "none"
-  },
   "dontInteractWithSystem" : false,
-  "forwardX11" : false
+  "forwardX11" : false,
+  "jumpServer" : false,
+  "additionalOptions" : null
 }

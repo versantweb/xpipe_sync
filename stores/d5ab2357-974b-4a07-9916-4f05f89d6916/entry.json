@@ -1,7 +1,11 @@
 {
   "uuid" : "d5ab2357-974b-4a07-9916-4f05f89d6916",
-  "name" : "Versant Web - slowUp Bénévoles - m-p-a - Découvre la Broye",
+  "name" : "Versant Web - slowUp Bénévoles - m-p-a - Découvre la Broye - Dem3",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
   "color" : null,
-  "icon" : null
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
 }
