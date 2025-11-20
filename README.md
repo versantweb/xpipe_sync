@@ -11,7 +11,6 @@ You can sync with this repository in all XPipe application instances the same wa
 - **Scripts**
   - [**Custom**](categories/d3496db5-b709-41f9-abc0-ee0a660fbab9)
 - **Identities**
-  - [**Synced**](categories/69aa5040-28dc-451e-b4ff-1192ce5e1e3c)
 - **Macros**
 
 ## Connection list
@@ -227,10 +226,6 @@ You can sync with this repository in all XPipe application instances the same wa
 **All scripts / Custom**
 
 - [**My scripts**](stores/a9945ad2-db61-4304-97d7-5dc4330691a7)
-
-**All identities / Synced**
-
-empty
 
 
 ## Secret encryption
