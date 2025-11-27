@@ -2,7 +2,10 @@
   "uuid" : "3367862e-33b3-466a-8f44-3249060ba59a",
   "name" : "HC Cuisines",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
-  "configuration" : {
-    "deletable" : true
-  }
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
 }
