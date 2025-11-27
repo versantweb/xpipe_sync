@@ -2,9 +2,10 @@
   "uuid" : "e1fccf74-3b3e-4fee-adbe-a4f53e32446b",
   "name" : "Gletterens",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
   "color" : null,
   "icon" : null,
-  "configuration" : {
-    "deletable" : true
-  }
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
 }
