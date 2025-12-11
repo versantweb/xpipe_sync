@@ -2,9 +2,10 @@
   "uuid" : "421dace7-d96b-4a99-a5a0-aaf9b4868791",
   "name" : "La Construction",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
   "color" : null,
   "icon" : null,
-  "configuration" : {
-    "deletable" : true
-  }
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
 }
