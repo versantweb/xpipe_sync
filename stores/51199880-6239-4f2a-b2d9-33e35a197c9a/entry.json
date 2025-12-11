@@ -2,6 +2,10 @@
   "uuid" : "51199880-6239-4f2a-b2d9-33e35a197c9a",
   "name" : "Strid Extranet Beta",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
   "color" : null,
-  "icon" : null
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
 }
