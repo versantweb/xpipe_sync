@@ -149,7 +149,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/3a8bc8e8-a288-4c7f-b8ee-a93d87ce988e)
     - [**root**](stores/d0e4c8b8-6773-47c8-b744-8431cf82fffb)
     - [**sh**](stores/3c072334-7d43-4e9a-b541-e7e156727c23)
-- [**Le Lab**](stores/1e0fbdac-43ee-4d01-8b01-ec3ece886652)
+- [**Le Lab - Lab des Montagnes**](stores/1e0fbdac-43ee-4d01-8b01-ec3ece886652)
   - [**Shell Environments**](stores/6ccdeaf7-85b8-30cf-9513-66e9c23df3ac)
     - [**bash**](stores/9261186e-94f0-4ee0-a0dd-7e87199781a7)
     - [**dash**](stores/aedcb7cf-c7ea-4f33-8f49-0819a88e66f9)
