@@ -2,6 +2,10 @@
   "uuid" : "c8dd1d73-b9c8-4d79-b5fe-736a79f71fb5",
   "name" : "Gaillard Vins",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
   "color" : null,
-  "icon" : null
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0
 }
