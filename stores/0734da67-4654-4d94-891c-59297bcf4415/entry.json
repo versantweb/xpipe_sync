@@ -2,9 +2,11 @@
   "uuid" : "0734da67-4654-4d94-891c-59297bcf4415",
   "name" : "Youdrive",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
   "color" : null,
   "icon" : null,
-  "configuration" : {
-    "deletable" : true
-  }
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0,
+  "tags" : [ ]
 }
