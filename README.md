@@ -133,6 +133,8 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/2cdbb320-da71-4a46-a3e2-efe9a0c6125f)
     - [**root**](stores/5302f837-8ade-4ba7-9bef-9208a517ab11)
 - [**Henchoz SA**](stores/3940b7d1-7b0b-44a7-b3fb-1192842827b4)
+  - [**Shell environments**](stores/a77a784b-48c2-45e5-8b6e-c4d3625018a2)
+    - [**sudo**](stores/2bf09fb4-aa85-4c87-916f-6ad583fe9093)
 - [**HIB**](stores/35e5af15-ba87-4451-a7fe-d225ba63f798)
   - [**Shell Environments**](stores/b386d7d5-851f-3f08-a781-e6dc2c021750)
     - [**bash**](stores/6225e95a-604e-4ae0-a1b4-47a73e9b5654)
