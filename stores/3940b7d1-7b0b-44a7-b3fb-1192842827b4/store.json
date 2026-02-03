@@ -1,0 +1,35 @@
+{
+  "type" : "ssh",
+  "proxy" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
+  "useGatewayWithProxyJump" : false,
+  "host" : "ht8gf.ftp.infomaniak.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "ht8gf_henchoz",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "keiNwj3J5ZNm8Mk7e0gsanoXWFl50XjQpEb01sYesSd4zu5N2F8m4OCb3IZ0rMU5MGqZscKTwZ5MauAWGs01_GtfdVOLPYfgIaLvjqXh4xH-ePFqRnk2RI8zqz_IxGTpmtZvMKSoeEW632xxO0pQ7SWjzw0bEWJkOae_7sQDBUdEtYjqUmLS7zIFrle6B5rOGUCoKzB6N3HKlZbC6qgAOGIjuGL5m9TTWMhmi6kR9XAYJj-kRaUYjkngTw=="
+        },
+        "encryptedToken" : {
+          "token" : "9n99-J2fAar-UY1ADmV5-lOpzIvJzhUsFgKZ4SxH_oiH"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "t8jxHcdZOOzkXnouXSZHCw04UN_5RjZ-uuDZgmngDFrYEaY0PAW9-YSm_A9ByNZxEPC9"
+        },
+        "encryptedToken" : {
+          "token" : "9n99-J2fAar-UY1ADmV5-lOpzIvJzhUsFgKZ4SxH_oiH"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}

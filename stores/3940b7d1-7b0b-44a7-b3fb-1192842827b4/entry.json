@@ -1,0 +1,12 @@
+{
+  "uuid" : "3940b7d1-7b0b-44a7-b3fb-1192842827b4",
+  "name" : "Henchoz SA",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "breakOutCategoryUuid" : null,
+  "color" : null,
+  "icon" : null,
+  "freeze" : false,
+  "pinToTop" : false,
+  "orderIndex" : 0,
+  "tags" : [ ]
+}
