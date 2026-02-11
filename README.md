@@ -47,7 +47,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**bash**](stores/a5bb0354-969b-4ebc-aae1-f627dbf2040b)
     - [**dash**](stores/a81e7ade-12fe-42fa-9849-d0c7819e377d)
     - [**root**](stores/f156fc1c-29af-4367-8b37-dbc8eff295bf)
-- [**Bénévoles, CSU-NVB, Police **](stores/68ad1e2d-b5ef-4e0c-b635-1a46996fd0bd)
+- [**Bénévoles, CSU-NVB, Sécurité Yverdon**](stores/68ad1e2d-b5ef-4e0c-b635-1a46996fd0bd)
   - [**Shell Environments**](stores/8278d5f4-58ff-3e41-9794-640ae2c55e2e)
     - [**bash**](stores/fdd8b63a-0a6a-46e7-8daa-3903acbaa679)
     - [**dash**](stores/4aab1dc1-faa5-4658-b6ab-eb12ba9977df)
