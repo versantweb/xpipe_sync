@@ -213,7 +213,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/d75bcaa3-2bb3-4948-b165-54beca97cae6)
     - [**root**](stores/c5492b77-b075-4ace-9eee-9664e8a290bb)
     - [**sh**](stores/8786fd69-5e67-4e67-88e0-1aca6f10d8f5)
-- [**Vetanimo**](stores/f7bdf6f1-df62-41a4-aabe-a0898aa96945)
+- [**Vetanimo - Top Blocm**](stores/f7bdf6f1-df62-41a4-aabe-a0898aa96945)
   - [**Shell Environments**](stores/2f092279-721d-3008-84ba-0ed2d523f770)
     - [**bash**](stores/304788db-fc56-4fa3-8d60-064f341a8964)
     - [**dash**](stores/504444e4-703d-4d57-b114-7eed36cf27d4)
