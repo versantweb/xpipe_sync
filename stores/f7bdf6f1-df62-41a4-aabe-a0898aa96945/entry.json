@@ -1,11 +1,12 @@
 {
   "uuid" : "f7bdf6f1-df62-41a4-aabe-a0898aa96945",
-  "name" : "Vetanimo",
+  "name" : "Vetanimo - Top Blocm",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
   "breakOutCategoryUuid" : null,
   "color" : null,
   "icon" : null,
   "freeze" : false,
   "pinToTop" : false,
-  "orderIndex" : 0
+  "orderIndex" : 0,
+  "tags" : [ ]
 }
