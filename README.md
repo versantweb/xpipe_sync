@@ -194,6 +194,8 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/fe092296-b83a-4be4-a170-0586abf747f7)
     - [**root**](stores/a2a30879-877c-4359-8a80-6b7e2dad487f)
 - [**Top Block**](stores/33a362a1-4547-4c7d-ab9c-c6609379341b)
+  - [**Shell environments**](stores/a6e3ea1a-0ebb-449e-8ca5-02a49afcffad)
+    - [**sudo**](stores/6e7e0349-71af-4910-9339-4d3f6fc97269)
 - [**Valorsa, API Variotechnik**](stores/bb65b585-2a93-46a6-bdb7-7218b4cb3774)
   - [**Shell Environments**](stores/79a87ea8-7f05-339c-b4e0-e73d66a67776)
     - [**bash**](stores/3e4bb5f8-6ede-4aff-9e51-616d3a5cc26f)
