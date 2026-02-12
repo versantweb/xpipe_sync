@@ -228,7 +228,7 @@ You can sync with this repository in all XPipe application instances the same wa
 
 **All scripts / Custom**
 
-- [**My scripts**](stores/a9945ad2-db61-4304-97d7-5dc4330691a7)
+empty
 
 
 ## Secret encryption
