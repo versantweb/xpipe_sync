@@ -64,6 +64,8 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/ca02b921-96c8-42e4-bbad-8b1b11ef8e55)
     - [**root**](stores/fea06494-4eb5-4f76-919a-4284e4e48a91)
 - [**Cybelec**](stores/fcf1ba40-6872-42d8-b205-0f3d6ac257fa)
+  - [**Shell environments**](stores/4875455d-30fb-43b8-ac10-06bb3cf25466)
+    - [**sudo**](stores/f83bccba-9a3e-48a3-a63d-0dc72d6424bc)
 - [**Domofen**](stores/36000816-4b60-4920-8686-97e54f1aee4d)
   - [**Shell Environments**](stores/10fd918f-9f52-3d5e-90fe-e73222f57480)
     - [**bash**](stores/00d00641-f9e9-4a08-81b4-fe8cf0c07b97)
