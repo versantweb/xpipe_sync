@@ -52,7 +52,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**bash**](stores/fdd8b63a-0a6a-46e7-8daa-3903acbaa679)
     - [**dash**](stores/4aab1dc1-faa5-4658-b6ab-eb12ba9977df)
     - [**root**](stores/6cc8c7c5-56c4-44c3-9afc-023ccb709db3)
-- [**Bénévoles, CSU-NVB, Sécurité Yverdon (Copy)**](stores/4334a06a-9cd0-4365-9713-7f77298a7c40)
+- [**Bénévoles, CSU-NVB, Sécurité Yverdon - KEY**](stores/4334a06a-9cd0-4365-9713-7f77298a7c40)
 - [**Caro-line**](stores/17b0d113-c915-4d86-9bc9-03b904a2267d)
   - [**Shell environments**](stores/86d54b7d-262b-3c3e-baf9-9f8c47382969)
     - [**bash**](stores/3efd6ad6-668b-4d32-9b0c-25b1ce107cea)
