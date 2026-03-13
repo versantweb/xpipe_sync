@@ -1,19 +1,35 @@
 {
   "type" : "ssh",
-  "proxy" : {
-    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
-  },
+  "proxy" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
+  "useGatewayWithProxyJump" : false,
   "host" : "gi427.ftp.infomaniak.com",
   "port" : 22,
-  "user" : "gi427_danae",
-  "password" : {
+  "identity" : {
     "type" : "inPlace",
-    "value" : {
-      "type" : "default",
-      "encryptedValue" : "H6ev4ZzuTwMzJdIUOlsoUh-1EFDvDq6RKKn4woEKv3dpGrn3F9xgiQ=="
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "gi427_danae",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "f8TLNGazKDBHwDiZE1lx-LVPHsBXoX3LiY76gVTIYmiMH2qPiUv_3ErrbwXeRSyMCORn"
+        },
+        "encryptedToken" : {
+          "token" : "cvNM52u8P5p9ipea72AeEw0Fdgq8WbCgIxctNnegaS_X"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "8wUSo7FAhFYd4Dfnhfx3rgQPz4x3k0wD42Q6y0RVHnq-y5vNReLCZg5l46Yr94Kj28nPn2DuPNvf21PWNqxqFhEBpduWl6A-wYK0s1J4jQ5uSSFo26zWuqBzOuG6amDAp3YbAn4ZgYGUfWb19Ft5XyVgsptO-7ptDvbji_XREAk74zN5jZMT6rV4GsftK0fJ8-zYOfXOzreApCv7Nplq0Kl3vhDX"
+        },
+        "encryptedToken" : {
+          "token" : "cvNM52u8P5p9ipea72AeEw0Fdgq8WbCgIxctNnegaS_X"
+        }
+      }
     }
   },
-  "identityStrategy" : {
-    "type" : "none"
-  }
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
 }
