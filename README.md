@@ -58,7 +58,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**bash**](stores/3efd6ad6-668b-4d32-9b0c-25b1ce107cea)
     - [**dash**](stores/e4fd8cc3-d5d2-4ad9-a3bf-c55ad05e1061)
     - [**sudo**](stores/ead43c01-d48f-4fa6-8b97-e4b816862ceb)
-- [**Cave Guillod**](stores/19ba786f-2bf0-4f89-a88a-fd2ccfbf0b60)
+- [**Cave Guillod - Bioley Magnoux**](stores/19ba786f-2bf0-4f89-a88a-fd2ccfbf0b60)
   - [**Shell Environments**](stores/e2d11916-6a2c-385c-93ec-3994c71e3e34)
     - [**bash**](stores/57a961e7-27a3-4731-ae38-1f134205f8af)
     - [**dash**](stores/ca02b921-96c8-42e4-bbad-8b1b11ef8e55)
