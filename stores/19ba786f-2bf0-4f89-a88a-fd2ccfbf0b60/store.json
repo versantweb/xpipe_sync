@@ -1,21 +1,35 @@
 {
   "type" : "ssh",
-  "proxy" : {
-    "storeId" : "f0ec68aa-63f5-405c-b178-9a4454556d6b"
-  },
+  "proxy" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
+  "useGatewayWithProxyJump" : false,
   "host" : "2z9o0.ftp.infomaniak.com",
   "port" : 22,
-  "user" : "2z9o0_web2",
-  "password" : {
+  "identity" : {
     "type" : "inPlace",
-    "value" : {
-      "secret" : {
-        "type" : "vault",
-        "encryptedValue" : "5Pl8Bii9ElaHD3GYtqaum8VOq+T9Dpdh917UF+Sn9rB8KVrQ7sAB"
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "2z9o0_web2",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "QX4iZ8NKPWvT93Iwoc2hvp3-GdC-H-0JO-30B33V42qcQMm4FS_zmwNCC995EMNKx4V3"
+        },
+        "encryptedToken" : {
+          "token" : "OTatUfbpcAoNimVQY9H1RcGraeN3bjmCaAUsBkgu0ERJ"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "8A-v_kgFp6aY8sdKdSPcLpyumPy4lA8JjZXEc0_NDx5_Q8pbrEwvg-DY1ECzcNWnRzdJKNwwVSm-wgpeS1U0cKoGjZcFxk3rWAGuUUA0ulZ6n0trwYvbEcTSYRoX86N4dvsiavArB8cDZ584ovpYXoFSLWSdZ0mJh31UFfESvC9jBHCNf5mUZWtSF1PcywmZ66OM65u-EMcGqoCMmrVWZm2hQARw"
+        },
+        "encryptedToken" : {
+          "token" : "OTatUfbpcAoNimVQY9H1RcGraeN3bjmCaAUsBkgu0ERJ"
+        }
       }
     }
   },
-  "identityStrategy" : {
-    "type" : "none"
-  }
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
 }

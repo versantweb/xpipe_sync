@@ -1,11 +1,12 @@
 {
   "uuid" : "19ba786f-2bf0-4f89-a88a-fd2ccfbf0b60",
-  "name" : "Cave Guillod",
+  "name" : "Cave Guillod - Bioley Magnoux",
   "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
   "breakOutCategoryUuid" : null,
   "color" : null,
   "icon" : null,
   "freeze" : false,
   "pinToTop" : false,
-  "orderIndex" : 0
+  "orderIndex" : 0,
+  "tags" : [ ]
 }
