@@ -1,0 +1,35 @@
+{
+  "type" : "ssh",
+  "proxy" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
+  "useGatewayWithProxyJump" : false,
+  "host" : "p85evl.ftp.infomaniak.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "p85evl_versantweb",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "FT1ciV8QElqgjerQyFJELJLLx0-v_xX_CSE9vs9b9ipUgE307eJUmj8RJ7VLmchTVZzn"
+        },
+        "encryptedToken" : {
+          "token" : "8z-KXfJWo5KVAKaoDYp8GI18j-gtEr8BQTdWNTtPefUF"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "wLB3s91UrEuiABnCkDJ_IXOdtYn9qrY1Z5eH3G6PgeWPb8KrCE86WdENnw1Kxs8Xl2IAFP3vvhM6G0F6DejSLL6hC09OnIg7mLHOs3IrrA3zFh6Q_ozBeM5ziebix0NBm_2USxDFeYC30T23IEftMD_aNruqI2SPIe-8EhAx7slbQg_QPN0cHi0kdbTnqdIQ51lOWi0fA4Z-32gaLMozV98iibOk"
+        },
+        "encryptedToken" : {
+          "token" : "8z-KXfJWo5KVAKaoDYp8GI18j-gtEr8BQTdWNTtPefUF"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
