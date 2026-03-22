@@ -218,6 +218,8 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**root**](stores/c5492b77-b075-4ace-9eee-9664e8a290bb)
     - [**sh**](stores/8786fd69-5e67-4e67-88e0-1aca6f10d8f5)
 - [**Versant Web - Valorsa**](stores/70d62982-a108-47b9-a3a2-a162d8024db7)
+  - [**Shell environments**](stores/e452b56a-038c-4dbd-adc0-03968431753d)
+    - [**sudo**](stores/133c06c4-fa03-45ad-9619-5bc2bc19249a)
 - [**Vetanimo - Top Block**](stores/f7bdf6f1-df62-41a4-aabe-a0898aa96945)
   - [**Shell Environments**](stores/2f092279-721d-3008-84ba-0ed2d523f770)
     - [**bash**](stores/304788db-fc56-4fa3-8d60-064f341a8964)
