@@ -175,6 +175,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/0278d541-8e1f-4949-a803-af92d7b65fb3)
     - [**root**](stores/821fb465-515c-4a0c-a3cd-820f5635bb79)
     - [**sh**](stores/d466734f-cae2-496b-a88b-fe408ec296d0)
+- [**m-p-a**](stores/f7030409-379d-41ce-b3a9-409910453b33)
 - [**OVH - Odoo**](stores/3c6ca24c-e40a-43ca-9a85-89a79d5d6705)
   - [**Shell Environments**](stores/50fe43bc-613f-340f-b228-e96b72033889)
     - [**dash**](stores/a1224376-24eb-4d40-808a-a484caea8985)
