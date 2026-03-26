@@ -1,0 +1,35 @@
+{
+  "type" : "ssh",
+  "proxy" : "f0ec68aa-63f5-405c-b178-9a4454556d6b",
+  "useGatewayWithProxyJump" : false,
+  "host" : "ww3jp4.ftp.infomaniak.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "ww3jp4_mpa",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "_UyoOhZFio8AEgHW7PIpINo58YTQa7gnkqH95AlMXLS29A6fm1rpFympDFXVPtrnfAaX"
+        },
+        "encryptedToken" : {
+          "token" : "jjOd-EuJc6dOrYoF_j7uAW5nKAj0zxTobTGmKv41djni"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "DQFHml668xHefUh-hamPOUL7bLT85SprHYXgPRJZBwuJu3XbSZZ2Y-HweqP3kx7QeRNRiacyqui2TA2UHxWwcFOc8tHnvnoY7x1i1btJvzIen2SenzWxYuAExXEOHhrrz3ATSqOXifWz-sbrfh-P0Gf_yeY-pqvEN1Ic1Sh00zbovB4FwuxRboNT5xxcfi1CrEJiBC4evogRW5I6q6per9l1tIQN"
+        },
+        "encryptedToken" : {
+          "token" : "jjOd-EuJc6dOrYoF_j7uAW5nKAj0zxTobTGmKv41djni"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
