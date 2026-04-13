@@ -188,6 +188,8 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/d489e9fd-bc5f-4e64-8314-cb33b15e9598)
     - [**root**](stores/adc06923-c19a-459d-afda-e54c66c26b69)
 - [**Screenedia - App**](stores/60a4d492-a0ee-49d7-a246-11b80cc59f99)
+  - [**Shell environments**](stores/85c74c06-b40c-4a10-aacc-04ca5f5e3d74)
+    - [**sudo**](stores/5137d26a-5f18-4a71-a607-13fdcf3d677b)
 - [**Strid Extranet Beta**](stores/51199880-6239-4f2a-b2d9-33e35a197c9a)
   - [**Shell Environments**](stores/feaf686b-4adf-3502-a1f0-67daf6ef6976)
     - [**bash**](stores/e4b8fed0-958c-4fcd-a750-1e87876baf79)
