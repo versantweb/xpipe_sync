@@ -247,6 +247,7 @@ You can sync with this repository in all XPipe application instances the same wa
 empty
 
 
+
 ## Secret encryption
 
 You have the option to fetch any sensitive information like passwords from outside sources like password managers or enter them at connection time through a prompt window. In that case, XPipe doesn't have to store any secrets itself.
