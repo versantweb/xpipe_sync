@@ -11,5 +11,6 @@
   "enableHttpApi" : false,
   "dontAllowTerminalRestart" : false,
   "passwordManager" : null,
-  "iconSources" : [ ]
+  "iconSources" : [ ],
+  "hideVaultEntryNames" : false
 }
