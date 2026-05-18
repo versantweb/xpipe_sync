@@ -1,0 +1,35 @@
+{
+  "type" : "ssh",
+  "gateway" : null,
+  "useGatewayWithProxyJump" : false,
+  "host" : "i296oq.ftp.infomaniak.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "i296oq_calame",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "RgwFCjzYw4WbZwtQuNRqeczN2a6qYlv8FJObqkX9WQ_mAFh1fBFgAUiM-Mk3NpCtfxKGIOUUFygwGSk_oNRucilKHsse1COVMwp90PzUcgMwireRatLuwGlug_DB4_xP_SOM0vh8CB8gEXvjkVkHXiZpzlYPkEmXD7txgG-4DyL4tvcZfJtfgIeacUy5kZZ1uTo7BnNkftbIjaUcMXggZUxvBNEDgJjyS7ghGih-J3ZzXg-kd2zJ"
+        },
+        "encryptedToken" : {
+          "token" : "rDiwCwwh0hMt9Z5hOEpz_cPo7sTPB240hqe-6976CDZM"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "rUVixan9fmGMT4b4Cg69i09go5XydBFnVmT4LjWr9TEZ6-gmrqNYUt7sGDVxN5hBcKcY"
+        },
+        "encryptedToken" : {
+          "token" : "rDiwCwwh0hMt9Z5hOEpz_cPo7sTPB240hqe-6976CDZM"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
