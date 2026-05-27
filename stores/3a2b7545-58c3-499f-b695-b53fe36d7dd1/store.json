@@ -1,0 +1,35 @@
+{
+  "type" : "ssh",
+  "gateway" : null,
+  "useGatewayWithProxyJump" : false,
+  "host" : "cy76jv.ftp.infomaniak.com",
+  "port" : 22,
+  "identity" : {
+    "type" : "inPlace",
+    "identityStore" : {
+      "type" : "localIdentity",
+      "username" : "cy76jv_rsiy",
+      "password" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "UglOA5tSzR_qgiuF8pDz1WwmN8rOjgIHfa1G1qw7ZWeMRfiMst_qhmTscwL-xQnzsqOIjPW7nO3nrvAjHGGj7TGInqKZosHRUnaCqQbZWwQlLAT4zDifn4ul3s1ox_XhcBdzumwDxdvxRT1XsbqvtgtabQLprMMGwXd1IX6zuuHf3c5WIOhy2uWwRJ1xR0VMpdow8rzK2YzYLXWfcBeMUxeKcWVbyOP6jS4-9tDfjKefRKPBKOLmm77wfw=="
+        },
+        "encryptedToken" : {
+          "token" : "rDiwCwwh0hMt9Z5hOEpz_cPo7sTPB240hqe-6976CDZM"
+        }
+      },
+      "sshIdentity" : {
+        "secret" : {
+          "type" : "vault",
+          "encryptedValue" : "txS8vzB8IiNALEXjGGQkYXZ4_gT3bg0oEbZNKfLKSutkd9naJR2vxQsGJKVYMAH9VvWX"
+        },
+        "encryptedToken" : {
+          "token" : "rDiwCwwh0hMt9Z5hOEpz_cPo7sTPB240hqe-6976CDZM"
+        }
+      }
+    }
+  },
+  "dontInteractWithSystem" : false,
+  "forwardX11" : false,
+  "additionalOptions" : null
+}
