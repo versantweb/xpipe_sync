@@ -222,7 +222,7 @@ You can sync with this repository in all XPipe application instances the same wa
     - [**dash**](stores/b0fef1a0-f304-4dd4-96a5-afb79669b2c9)
     - [**root**](stores/c9859cbd-6583-4e61-9bb6-88efe4750bb0)
     - [**sh**](stores/aabdcff2-70b8-49fc-aaf9-77cd7420a545)
-- [**Versant Web - Valorsa**](stores/70d62982-a108-47b9-a3a2-a162d8024db7)
+- [**Versant Web - Valorsa - Découvre la Broye**](stores/70d62982-a108-47b9-a3a2-a162d8024db7)
   - [**Shell environments**](stores/e452b56a-038c-4dbd-adc0-03968431753d)
     - [**sudo**](stores/133c06c4-fa03-45ad-9619-5bc2bc19249a)
 - [**Vetanimo - Top Block**](stores/f7bdf6f1-df62-41a4-aabe-a0898aa96945)
