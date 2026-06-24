@@ -12,5 +12,6 @@
   "dontAllowTerminalRestart" : false,
   "passwordManager" : null,
   "iconSources" : [ ],
-  "hideVaultEntryNames" : false
+  "hideVaultEntryNames" : false,
+  "backgroundSessionInactivityTimeout" : null
 }
